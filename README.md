@@ -174,27 +174,28 @@ Topic: Account Management - Schedule Change
 <img width="1436" height="809" alt="Screenshot 2026-02-20 at 10 01 37 PM" src="https://github.com/user-attachments/assets/bc9815d6-f718-488e-855f-714c52124ce8" />
 ```
 
+
 ---
 
 ## 🚀 How HomeCare AI Scales Construction Teams
 
-### Right Now — What It Does Today
+### ✅ Right Now — What It Does Today
 - Eliminates manual rewriting of complaints
 - Catches high-risk escalations before they become claims
 - Standardises documentation across all agents
 - Reduces average handling time from minutes to seconds
 
-### Phase 2 — 3 Months
+### 📅 Phase 2 — 3 Months
 - **CRM Integration** — Connect to Salesforce or ServiceNow
-- **SLA Scoring** — Auto-set response deadlines by urgency
+- **SLA Scoring** — Auto-set response deadlines by urgency level
 - **Email Automation** — Auto-send resolution emails to homeowners
 
-### Phase 3 — 6 Months
+### 📅 Phase 3 — 6 Months
 - **Sentiment Trend Dashboard** — Track frustration by suburb, building stage, issue type
 - **Predictive Escalation** — Flag at-risk tickets before the customer escalates
 - **Agent Quality Scoring** — Score every resolution note for consistency
 
-### Phase 4 — 12 Months
+### 📅 Phase 4 — 12 Months
 - **Multi-Language Support** — Mandarin, Vietnamese, Arabic, Italian
 - **Voice-to-Resolution** — Phone call → Speech-to-text → Formal note → CRM
 - **Industry Benchmarking** — Compare satisfaction scores across the sector
@@ -212,9 +213,12 @@ Topic: Account Management - Schedule Change
 | Missed escalations/month | 15–20% | <2% |
 
 **For a team processing 500 tickets/month:**
-- ⏱️ Time saved: ~65 hours/month
-- 💰 Cost saved: ~$2,000–4,000/month
-- ⚠️ Risk reduced: Fewer warranty claims, fewer legal escalations
+
+| Saving | Value |
+|---|---|
+| ⏱️ Time saved | ~65 hours/month |
+| 💰 Cost saved | ~$2,000–4,000/month |
+| ⚠️ Risk reduced | Fewer warranty claims & legal escalations |
 
 ---
 
@@ -332,3 +336,4 @@ Metricon hiring team. Unauthorised sharing or reproduction is prohibited.
 ---
 
 *Built with ❤️ using HuggingFace Transformers + Gradio*
+
