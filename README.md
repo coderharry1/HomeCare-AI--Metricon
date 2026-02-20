@@ -171,7 +171,7 @@ Every other tool gives you two labels: `POSITIVE` or `NEGATIVE`.
 
 That's useless for a support team.
 
-SiteScribe-AI gives you **5 actionable levels**:
+HomeCare-AI gives you **5 actionable levels**:
 
 ```
 Level 1 — Highly Frustrated    → ESCALATE IMMEDIATELY
@@ -189,7 +189,7 @@ This transforms sentiment analysis from a **data point** into an **operational d
 
 Most solutions are monolithic — one model doing everything badly.
 
-SiteScribe-AI uses a **pipeline of specialised agents**:
+HomeCare-AI uses a **pipeline of specialised agents**:
 
 ```
 Sentiment Agent  →  knows emotions
