@@ -337,22 +337,7 @@ Topic: Billing - Overcharge
 ```
 
 **Output:**
-```
-📝 Resolution: Customer reported a billing discrepancy on their 
-account. A thorough review of the account transaction history was 
-conducted. The erroneous charge was identified, reversed, and the 
-customer was notified of the correction via email.
-
-📊 Tone:              Highly Frustrated / Negative
-   Confidence:        99.8%
-   Urgency:           High
-   Satisfaction Risk: High
-   Keywords:          theft
-
-🎯 ⚠️ ESCALATE IMMEDIATELY — Assign to senior support agent.
-   Follow up within 1 hour.
-```
-
+<img width="1427" height="812" alt="Screenshot 2026-02-20 at 9 34 25 PM" src="https://github.com/user-attachments/assets/14444283-0756-41f8-bdd9-b9d5d47d0503" />
 ---
 
 ### Example 2 — Happy Customer
@@ -363,20 +348,7 @@ Topic: Feedback - Positive
 ```
 
 **Output:**
-```
-📝 Resolution: Customer submitted positive feedback regarding their 
-recent support interaction. The commendation was formally recorded 
-and communicated to the relevant support team.
-
-📊 Tone:              Satisfied / Positive
-   Confidence:        97.0%
-   Urgency:           Low
-   Satisfaction Risk: Low
-   Keywords:          amazing
-
-🎯 ✅ ROUTINE — Log and close. Send satisfaction survey.
-```
-
+<img width="1461" height="826" alt="Screenshot 2026-02-20 at 9 36 01 PM" src="https://github.com/user-attachments/assets/e2bc8b94-cf22-4a60-b472-ff34ad85a5d4" />
 ---
 
 ## 🛠️ Tech Stack
