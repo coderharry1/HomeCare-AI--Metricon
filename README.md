@@ -42,6 +42,9 @@ HomeCare-AI is a multi-agent AI system that solves all five problems **in second
 
 ---
 
+<img width="1512" height="823" alt="Screenshot 2026-02-20 at 9 31 54 PM" src="https://github.com/user-attachments/assets/559ad035-49c3-4ad9-819a-ded7405ffde1" />
+
+
 ## 🧠 How It Works — Multi-Agent Architecture
 
 ```
@@ -495,6 +498,8 @@ Built as part of a technical assessment demonstrating real-world AI application 
 
 *"The best technology doesn't just solve today's problem — 
 it builds the infrastructure for tomorrow's growth."*
+
+---
 
 ## 📄 License
 
