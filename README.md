@@ -1,12 +1,10 @@
-# HomeCare-AI--Metricon
-Missed escalations cost construction companies thousands. HomeCare-AI detects frustrated homeowners instantly, converts messy complaint chats into formal resolution notes, and recommends the right action automatically. Fine-tuned on 50 real scenarios. Built with DistilBERT + Flan-T5 + Gradio. Zero cost.
-
-<img width="1408" height="768" alt="Gemini_Generated_Image_wjepinwjepinwjep" src="https://github.com/user-attachments/assets/d9eace8b-9986-4655-83f2-848a75c570a8" />
-
-# 🏗️ SiteScribe-AI
+# 🏗️ HomeCare
 ### Intelligent Customer Support Co-Pilot for Construction Teams
 
 > *Missed escalations cost construction companies thousands. SiteScribe-AI detects frustrated homeowners instantly, converts messy complaint chats into formal resolution notes, and recommends the right action automatically. Fine-tuned on 50 real scenarios. Built with DistilBERT + Flan-T5 + Gradio. Zero cost.*
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_wjepinwjepinwjep" src="https://github.com/user-attachments/assets/d9eace8b-9986-4655-83f2-848a75c570a8" />
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange)
@@ -30,9 +28,9 @@ Every day, construction support teams face the same challenges:
 
 ---
 
-## ✅ The Solution — SiteScribe-AI
+## ✅ The Solution — HomeCare-AI
 
-SiteScribe-AI is a multi-agent AI system that solves all five problems **in seconds**:
+HomeCare-AI is a multi-agent AI system that solves all five problems **in seconds**:
 
 ✅ Converts informal customer chats into professional formal resolution notes\
 ✅ Detects emotional tone and frustration level with confidence scoring\
@@ -69,7 +67,7 @@ Customer Chat Input (Gradio UI)
    (Resolution + Sentiment + Action)
 ```
 
-Each agent handles a single concern — making the system **modular, testable, and production-ready**.
+Each agent handles a single concern, making the system **modular, testable, and production-ready**.
 
 ---
 
@@ -93,7 +91,7 @@ Each agent handles a single concern — making the system **modular, testable, a
 
 ---
 
-## 💡 Why My Approach Is Better
+## Why My Approach Is Better
 
 ### Out of the Box vs My Approach
 
@@ -119,7 +117,7 @@ This gives support teams **actionable intelligence**, not just a label.
 
 ### Why I Fine-Tuned on Domain Data
 
-Generic sentiment models are trained on movie reviews and social media — not construction support tickets. By fine-tuning DistilBERT on 50 real customer support scenarios, the model learns:
+Generic sentiment models are trained on movie reviews and social media, not construction support tickets. By fine-tuning DistilBERT on 50 real customer support scenarios, the model learns:
 
 - Construction-specific vocabulary (warranty, inspection, defect, repair)
 - Customer support emotional patterns
@@ -127,7 +125,7 @@ Generic sentiment models are trained on movie reviews and social media — not c
 
 **Fine-tuning result:** 3 epochs, 8 seconds training time, domain-adapted model saved locally.
 
-> **Honest insight:** With 50 examples the dataset was imbalanced (38 positive vs 12 negative). In production I would collect 500+ balanced labelled examples for optimal fine-tuning performance — demonstrating production-aware thinking.
+> **Honest insight:** With 50 examples, the dataset was imbalanced (38 positive vs 12 negative). In production, I would collect 500+ balanced labelled examples for optimal fine-tuning performance — demonstrating production-aware thinking.
 
 ---
 
@@ -203,7 +201,7 @@ and communicated to the relevant support team.
 ## 📁 Project Structure
 
 ```
-SiteScribe-AI/
+HomeCare-AI/
 │
 ├── agents/
 │   ├── formality_agent.py      ← Flan-T5 formal summary
