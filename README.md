@@ -1,2 +1,2 @@
 # HomeCare-AI--Metricon
-AI co-pilot for construction support teams. Converts  informal customer chats into formal resolution notes,  detects emotional tone with confidence scoring, and  recommends escalation actions automatically. Built with  Fine-tuned DistilBERT + Flan-T5 + Gradio. Trained on  50 real customer support scenarios. 100% free &amp; local.
+Missed escalations cost construction companies thousands. HomeCare-AI detects frustrated homeowners instantly, converts messy complaint chats into formal resolution notes, and recommends the right action automatically. Fine-tuned on 50 real scenarios. Built with DistilBERT + Flan-T5 + Gradio. Zero cost.
