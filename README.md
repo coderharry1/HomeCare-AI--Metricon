@@ -14,29 +14,29 @@
 
 ---
 
-## 🔴 The Problem
+## The Problem
 
 Every day, construction support teams face the same challenges:
 
-❌ Homeowners send angry, informal complaints that are hard to action\
-❌ Agents spend hours manually rewriting complaints into formal records\
-❌ High-risk issues get missed and escalate into costly warranty claims\
-❌ No visibility into customer frustration levels across the team\
-❌ Inconsistent documentation quality across different support agents
+1. Homeowners send angry, informal complaints that are hard to action\
+2. Agents spend hours manually rewriting complaints into formal records\
+3. High-risk issues get missed and escalate into costly warranty claims\
+4. No visibility into customer frustration levels across the team\
+5. Inconsistent documentation quality across different support agents
 
 **The result?** Slower response times, poor documentation, missed escalations, and unhappy homeowners.
 
 ---
 
-## ✅ The Solution — HomeCare-AI
+## The Solution — HomeCare-AI
 
 HomeCare-AI is a multi-agent AI system that solves all five problems **in seconds**:
 
-✅ Converts informal customer chats into professional formal resolution notes\
-✅ Detects emotional tone and frustration level with confidence scoring\
-✅ Flags high-risk complaints for immediate escalation\
-✅ Recommends the right action automatically\
-✅ Runs 100% locally — no API keys, no cost, no data privacy risks
+1. Converts informal customer chats into professional formal resolution notes\
+2. Detects emotional tone and frustration level with confidence scoring\
+3. Flags high-risk complaints for immediate escalation\
+4. Recommends the right action automatically\
+5. Runs 100% locally — no API keys, no cost, no data privacy risks
 
 **Result:** Faster response times, consistent documentation, zero missed escalations.
 
@@ -45,7 +45,7 @@ HomeCare-AI is a multi-agent AI system that solves all five problems **in second
 <img width="1512" height="823" alt="Screenshot 2026-02-20 at 9 31 54 PM" src="https://github.com/user-attachments/assets/559ad035-49c3-4ad9-819a-ded7405ffde1" />
 
 
-## 🧠 How It Works — Multi-Agent Architecture
+## How It Works — Multi-Agent Architecture
 
 ```
 Customer Chat Input (Gradio UI)
@@ -74,7 +74,7 @@ Each agent handles a single concern, making the system **modular, testable, and 
 
 ---
 
-## 🤖 AI Models & Fine-Tuning
+## AI Models & Fine-Tuning
 
 ### 1️⃣ Sentiment Analysis Agent
 - **Base Model:** `distilbert-base-uncased-finetuned-sst-2-english`
@@ -130,7 +130,7 @@ Generic sentiment models are trained on movie reviews and social media, not cons
 
 > **Honest insight:** With 50 examples, the dataset was imbalanced (38 positive vs 12 negative). In production, I would collect 500+ balanced labelled examples for optimal fine-tuning performance — demonstrating production-aware thinking.
 
-## 🎯 What Makes This Approach Unique
+## What Makes This Approach Unique
 
 ### 1. Domain-Specific Fine-Tuning — Not Just Out of the Box
 
@@ -222,7 +222,7 @@ For a construction company processing **1,000 support tickets per month**, that'
 
 ---
 
-## 🚀 How HomeCare-AI Can Scale Construction Teams
+## How HomeCare-AI Can Scale Construction Teams
 
 ### Right Now — What It Does Today
 
@@ -422,7 +422,7 @@ http://127.0.0.1:7860
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 gradio>=4.0.0
@@ -437,7 +437,7 @@ python-dotenv>=1.0.0
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] SLA & urgency scoring with time-based alerts
 - [ ] CRM / ticketing system integration (Salesforce, ServiceNow)
@@ -449,7 +449,7 @@ python-dotenv>=1.0.0
 
 ---
 
-## 💼 Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates:
 
@@ -460,7 +460,7 @@ This project demonstrates:
 **5. Cost consciousness** — enterprise-grade output at zero infrastructure cost\
 **6. Clean architecture** — separation of concerns across agents
 
-## 👤 Author
+## Author
 
 **Harish**\
 AI / ML Engineer\
@@ -473,14 +473,14 @@ it builds the infrastructure for tomorrow's growth."*
 
 ---
 
-## 📄 License
+## License
 
 This project is provided as a Proof of Concept for educational and demonstration purposes.
 
 ---
 
 ---
-## 🏆 The Bottom Line
+## The Bottom Line
 
 HomeCare-AI is not just a sentiment tool.
 
