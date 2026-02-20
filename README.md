@@ -1,7 +1,7 @@
 # 🏗️ HomeCare-AI
 ### Intelligent Customer Support Co-Pilot for Construction Teams
 
-> *Missed escalations cost construction companies thousands. SiteScribe-AI detects frustrated homeowners instantly, converts messy complaint chats into formal resolution notes, and recommends the right action automatically. Fine-tuned on 50 real scenarios. Built with DistilBERT + Flan-T5 + Gradio. Zero cost.*
+> *Missed escalations cost construction companies thousands. HomeCare-AI detects frustrated homeowners instantly, converts messy complaint chats into formal resolution notes, and recommends the right action automatically. Fine-tuned on 50 real scenarios. Built with DistilBERT + Flan-T5 + Gradio. Zero cost.*
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_wjepinwjepinwjep" src="https://github.com/user-attachments/assets/d9eace8b-9986-4655-83f2-848a75c570a8" />
 
