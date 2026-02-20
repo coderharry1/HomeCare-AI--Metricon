@@ -468,7 +468,7 @@ Built as part of a technical assessment demonstrating real-world AI application 
 
 ---
 
-*"The best technology doesn't just solve today's problem — 
+*"The best technology doesn't just solve today's problem, 
 it builds the infrastructure for tomorrow's growth."*
 
 ---
@@ -484,7 +484,7 @@ This project is provided as a Proof of Concept for educational and demonstration
 
 HomeCare-AI is not just a sentiment tool.
 
-It is the **foundation of an intelligent support operations platform** for construction companies — one that gets smarter with every ticket processed, scales without adding headcount, and turns reactive support into proactive customer success.
+It is the **foundation of an intelligent support operations platform** for construction companies, one that gets smarter with every ticket processed, scales without adding headcount, and turns reactive support into proactive customer success.
 
 **Built today. Ready to scale tomorrow.**
 
